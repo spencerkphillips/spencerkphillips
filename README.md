@@ -12,9 +12,9 @@
 
 ### Connect with me, we could be great friends!
 
-[<img align="left" alt="spencerk.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="spencerkptv | Twitch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%28wordmark_only%29.svg" />][twitch]
-[<img align="left" alt="spencerkptv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="spencerk.codes" width="22px" src="https://github.com/spencerkphillips/spencerkphillips/icons/Browser.svg" />][website]
+[<img align="left" alt="spencerkptv | Twitch" width="22px" src="https://github.com/spencerkphillips/spencerkphillips/icons/Twitch.svg" />][twitch]
+[<img align="left" alt="spencerkptv | Twitter" width="22px" src="https://github.com/spencerkphillips/spencerkphillips/icons/Twitter.svg" />][twitter]
 
 <br />
 
