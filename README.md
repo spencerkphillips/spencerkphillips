@@ -35,7 +35,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Github.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Terminal.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Terminal.png" />
 
 [website]: https://spencerk.codes
 [twitch]: https://twitch.tv/spencerkptv
