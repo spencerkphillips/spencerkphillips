@@ -10,12 +10,6 @@
 - 📙 Trying to learn more of my trades
 - 🤼 Working on my contribution to open-source projects
 
-### Connect with me, we could be great friends!
-
-[<img align="left" alt="spencerk.codes" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Browser.svg" />][website]
-[<img align="left" alt="spencerkptv | Twitch" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Twitch.svg" />][twitch]
-[<img align="left" alt="spencerkptv | Twitter" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Twitter.svg" />][twitter]
-
 <br />
 
 ### Languages
