@@ -1,6 +1,6 @@
 ### Hi there, I'm Spencer - aka [SpencerKCodes][spencerkcodes] 🤟
 
-[![Website](https://img.shields.io/website?label=spencerk.codes&style=for-the-badge&url=https%3A%2F%2Fspencerk.codes)](https://spencerk.codes)
+[![Website](https://img.shields.io/website?label=polycode.co&style=for-the-badge&url=https%3A%2F%2Fpolycode.co)](https://polycode.co)
 [![Twitter Follow](https://img.shields.io/twitter/follow/spencerkptv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspencerkptv&screen_name=spencerkptv)
 
 ## I'm a Full-Stack Developer, Future Teacher, & Content Creator!
@@ -31,7 +31,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/spencerkphillips/spencerkphillips/blob/main/icons/Terminal.png" />
 
-[website]: https://spencerk.codes
+[website]: https://polycode.co
 [twitch]: https://twitch.tv/spencerkptv
 [twitter]: https://twitter.com/spencerkptv
-[spencerkcodes]: https://github.com/SpencerKCodes
+[polycode]: https://github.com/polycode
